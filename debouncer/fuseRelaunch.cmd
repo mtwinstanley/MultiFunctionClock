@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/mw833/FPGA-Assignment/debouncer/debouncer_tb_isim_beh.exe" -prj "C:/Users/mw833/FPGA-Assignment/debouncer/debouncer_tb_beh.prj" "work.debouncer_tb" 
