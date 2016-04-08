@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/mw833/FPGA_Assignment/prescaler/prescaler_tb_isim_beh.exe" -prj "C:/Users/mw833/FPGA_Assignment/prescaler/prescaler_tb_beh.prj" "work.prescaler_tb" 

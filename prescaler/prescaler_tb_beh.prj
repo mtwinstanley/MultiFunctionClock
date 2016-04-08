@@ -1,0 +1,2 @@
+vhdl work "prescaler.vhd"
+vhdl work "prescaler_tb.vhd"
