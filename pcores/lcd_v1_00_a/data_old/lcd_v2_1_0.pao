@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          C:/Users/mw833/FPGA_Assignment/pcores/lcd_v1_00_a/data/lcd_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Wed Apr 06 18:12:16 2016 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib lcd_v1_00_a user_logic vhdl
+lib lcd_v1_00_a lcd vhdl

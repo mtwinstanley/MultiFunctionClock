@@ -1,0 +1,7 @@
+##############################################################################
+## Filename:          C:\Users\mw833\FPGA_Assignment\pcores/prescaler_v1_00_a/data/prescaler_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Wed Apr 06 20:57:34 2016 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib prescaler_v1_00_a prescaler vhdl

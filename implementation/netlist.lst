@@ -1,0 +1,21 @@
+C:\Users\mw833\FPGA_Assignment\implementation\system.ngc 1460056300
+C:/Users/mw833/FPGA_Assignment/implementation/system_debouncer_0_wrapper.ngc 1460056249
+C:/Users/mw833/FPGA_Assignment/implementation/system_rs232_uart_1_wrapper.ngc 1460056216
+C:/Users/mw833/FPGA_Assignment/implementation/system_proc_sys_reset_0_wrapper.ngc 1460056129
+C:/Users/mw833/FPGA_Assignment/implementation/system_clock_generator_0_wrapper.ngc 1460056277
+C:/Users/mw833/FPGA_Assignment/implementation/system_microblaze_0_ilmb_wrapper.ngc 1460056268
+C:/Users/mw833/FPGA_Assignment/implementation/system_microblaze_0_dlmb_wrapper.ngc 1460056271
+C:/Users/mw833/FPGA_Assignment/implementation/system_mcb_ddr2_wrapper.ngc 1460056285
+C:/Users/mw833/FPGA_Assignment/implementation/system_axi4lite_0_wrapper.ngc 1460056280
+C:/Users/mw833/FPGA_Assignment/implementation/system_axi4_0_wrapper.ngc 1460056282
+C:/Users/mw833/FPGA_Assignment/implementation/system_microblaze_0_wrapper.ngc 1460056274
+C:/Users/mw833/FPGA_Assignment/implementation/system_axi_intc_0_wrapper.ngc 1460056257
+C:/Users/mw833/FPGA_Assignment/implementation/system_microblaze_0_i_bram_ctrl_wrapper.ngc 1460056137
+C:/Users/mw833/FPGA_Assignment/implementation/system_microblaze_0_d_bram_ctrl_wrapper.ngc 1460056146
+C:/Users/mw833/FPGA_Assignment/implementation/system_debug_module_wrapper.ngc 1460056188
+C:/Users/mw833/FPGA_Assignment/implementation/system_leds_8bits_wrapper.ngc 1460056236
+C:/Users/mw833/FPGA_Assignment/implementation/system_lcd_0_wrapper.ngc 1460056245
+C:/Users/mw833/FPGA_Assignment/implementation/system_fit_timer_0_wrapper.ngc 1460056261
+C:/Users/mw833/FPGA_Assignment/implementation/system_prescaler_0_wrapper.ngc 1460056266
+C:/Users/mw833/FPGA_Assignment/implementation/system_microblaze_0_bram_block_wrapper.ngc 1460056152
+OK

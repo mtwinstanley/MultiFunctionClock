@@ -1,0 +1,7 @@
+##############################################################################
+## Filename:          C:\Users\mw833\FPGA_Assignment\pcores/debouncer_v1_00_a/data/debouncer_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Wed Apr 06 18:48:00 2016 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib debouncer_v1_00_a debouncer vhdl
